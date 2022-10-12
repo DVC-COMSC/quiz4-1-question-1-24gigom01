@@ -4,7 +4,7 @@ int main() {
   int selection;
 
   int radius;
-  int pi;
+  double pi;
   pi = 3.14159;
   int length;
   int width;
